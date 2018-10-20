@@ -1,6 +1,8 @@
 # Details
+
 =========================================================================
-*This repository file is a copy of [arleym/kjv-markdown: King James Version Markdown Bible](https://github.com/arleym/kjv-markdown)
+
+* This repository file is a copy of [arleym/kjv-markdown](https://github.com/arleym/kjv-markdown)
 
 
 Additional Details
